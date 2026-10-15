@@ -1,0 +1,27 @@
+# Large generated time-series data and machine-local provenance
+/results/data/*.mat
+/results/data/metrics.json
+/results/data/source_integrity.json
+
+# MATLAB / Simulink generated files
+slprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*.slxc
+*.asv
+*.autosave
+*.slx.autosave
+*.slx.r20*
+*.mdl.r20*
+*.mexw64
+*.mexmaci64
+*.mexa64
+*.log
+
+# Editor / operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
