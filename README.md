@@ -38,6 +38,7 @@ compare_controllers('plot')     % 仅重画图；需要先在本机运行生成 
 
 ## 查看结果
 
+- [五种控制方案的具体改进与原因](控制方案改进说明.md)
 - [性能对比报告](results/性能对比报告.md)
 - [XYZ 指标表](results/XYZ指标表.md)
 - [XYZ 指标 CSV](results/data/xyz_metrics.csv) / [yaw 指标 CSV](results/data/yaw_metrics.csv)
